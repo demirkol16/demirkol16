@@ -55,13 +55,13 @@ const demirkol = {
 ### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> Latest Blog posts:
 -->
 
-<a target="_blank" href="https://blogs.mulesoft.com/news/dataweave/"><img src="https://blogs.mulesoft.com/news/dataweave/" alt="Recent Article on medium 1"></img></a>
+<!-- BLOG-POST-LIST:START -->
+- [The Future of DataWeave](https://blogs.mulesoft.com/news/dataweave/)
+- [Reverse engineering a private API with MITM Proxy](https://cyris.io/blog/reverse-engineer-api-copy)
+- [How to improve code readability and reuse with RAML](https://blogs.mulesoft.com/dev-guides/restful-api-modeling-language-201/)
+- [Mule 4 error handling demystified](https://blogs.mulesoft.com/dev-guides/how-to-tutorials/mule4-error-handling/)
+<!-- BLOG-POST-LIST:END -->
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thomas-george-thomas/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thomas-george-thomas/1" alt="Recent Article on medium 2"></img></a>   
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thomas-george-thomas/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thomas-george-thomas/2" alt="Recent Article on medium 3"></img></a> 
-
-<br>
 
 ---
 
