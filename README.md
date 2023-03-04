@@ -53,15 +53,18 @@ const demirkol = {
 ---
 
 ### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> My Latest Blog posts:
-<!-- BLOG-POST-LIST:START -->
-- [Debunking YOUR Basic Math Concepts](https://apoorvtyagi.tech/mythbusting-mathematics-can-you-solve-this)
-- [JavaScript -Better way to check for "Nullish" Value Only!](https://apoorvtyagi.tech/nullish-coalescing-operator-vs-logical-or-javascript)
-- [Welcome to the world of "NFTs"](https://apoorvtyagi.tech/welcome-to-the-world-of-nft)
-- [What is Blockchain Technology? Learn by creating one](https://apoorvtyagi.tech/creating-blockchain-python)
-- [Five++ cool Python snippets that will blow your mind🤯](https://apoorvtyagi.tech/cool-python-snippets-that-will-blow-your-mind)
-<!-- BLOG-POST-LIST:END -->
+-->
 
-▶ [... view more](https://apoorvtyagi.tech/)
+<b>My Recent posts on Medium!</b>
+
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thomas-george-thomas/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thomas-george-thomas/0" alt="Recent Article on medium 1"></img></a>
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thomas-george-thomas/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thomas-george-thomas/1" alt="Recent Article on medium 2"></img></a>   
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thomas-george-thomas/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thomas-george-thomas/2" alt="Recent Article on medium 3"></img></a> 
+
+<br>
 
 ---
 
