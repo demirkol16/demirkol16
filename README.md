@@ -7,32 +7,18 @@
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
- ```ruby
- class Sy < Person
-   def initialize
-     @name = 'Rahman'
-     @age = 29
-     @work = [ 'TumCloud', 'Library App', 'Cap4Lab']
-     @education = [ 'Technical University of Munich']
-     @hobbies = [ 'Chess', 'Day dreaming']
-   end
-
-   def current_location
-     'Germany'
-   end
-
-   def current_job
-     ['MuleSoft Developer']
-   end
-
-   def currently
-     {
-       learning: [ 'API Security'],
-       reading: [ 'API Management']
-      }
-   end
- end
- ```
+ ```javascript
+const demirkol = {
+  code: [Java, Dataweave, HTML, CSS],
+  tools: [Anypoint Studio, Postman, Advanced Rest Client, Jenkins, Docker],
+  architecture: ["microservices"],
+  techCommunities: {
+                        MuleSfot Developer: "Cap4Lab",
+                        Researcher: "CoronaNet Project",
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on Dataweave"
+}
+```
 
 
 - 🧑‍💻 Tech I work on :
