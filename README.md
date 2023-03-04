@@ -13,7 +13,7 @@ const demirkol = {
   tools: [Anypoint Studio, Postman, Advanced Rest Client, Jenkins, Docker],
   architecture: ["microservices"],
   techCommunities: {
-                        MuleSfot Developer: "Cap4Lab",
+                        MuleSoft Developer: "Cap4Lab",
                         Researcher: "CoronaNet Project",
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on Dataweave"
