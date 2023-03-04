@@ -55,9 +55,6 @@ const demirkol = {
 ### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> My Latest Blog posts:
 -->
 
-<b>My Recent posts on Medium!</b>
-
-
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thomas-george-thomas/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thomas-george-thomas/0" alt="Recent Article on medium 1"></img></a>
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thomas-george-thomas/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thomas-george-thomas/1" alt="Recent Article on medium 2"></img></a>   
