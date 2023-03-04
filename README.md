@@ -1,16 +1,22 @@
 <h1 align="left">Hey 👋 What's up?<br><br>I'm Rahman Demirkol</h1>
 
-###
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-<h2 align="left">A passionate Integration / API developer from Germany</h2>
+```dataweave
+const demirkol = {
+  code: [Java, Dataweave, HTML, CSS],
+  tools: [Anypoint Studio, Postman, Advanced REST client, Jenkins, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        MuleSoft Developer: "MuleSoft Community",
+                        Researcher: "CoroneNet Project"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on Dataweave"
+}
 
-###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ I have an experience for software testing<br>📚 I'm currently working as a MuleSoft Developer</p>
+<p><em>TUM Graduate <a href="https://www.tum.de/en/">Technical University of Munich</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Integration Developer at <a href="https://www.cap4lab.com/">Cap4Lab</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
 ###
 
