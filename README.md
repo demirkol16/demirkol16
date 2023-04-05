@@ -56,10 +56,12 @@ const demirkol = {
 -->
 
 <!-- BLOG-POST-LIST:START -->
+- [API 101: What are They and How Do They Work?](https://www.plektonlabs.com/api-101-what-are-they-and-how-do-they-work/)
 - [What Is API-led Connectivity? ](https://blogs.mulesoft.com/learn-apis/api-led-connectivity/what-is-api-led-connectivity/)
 - [The Future of DataWeave](https://blogs.mulesoft.com/news/dataweave/)
 - [Reverse engineering a private API with MITM Proxy](https://cyris.io/blog/reverse-engineer-api-copy)
 - [How to improve code readability and reuse with RAML](https://blogs.mulesoft.com/dev-guides/restful-api-modeling-language-201/)
+- [Mule 4 vs Mule 3: The Good, the Bad and the Ugly](https://www.plektonlabs.com/mule-4-vs-mule-3-the-good-the-bad-and-the-ugly/)
 - [Mule 4 error handling demystified](https://blogs.mulesoft.com/dev-guides/how-to-tutorials/mule4-error-handling/)
 <!-- BLOG-POST-LIST:END -->
 
