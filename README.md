@@ -63,6 +63,7 @@ const demirkol = {
 - [How to improve code readability and reuse with RAML](https://blogs.mulesoft.com/dev-guides/restful-api-modeling-language-201/)
 - [Mule 4 vs Mule 3: The Good, the Bad and the Ugly](https://www.plektonlabs.com/mule-4-vs-mule-3-the-good-the-bad-and-the-ugly/)
 - [Mule 4 error handling demystified](https://blogs.mulesoft.com/dev-guides/how-to-tutorials/mule4-error-handling/)
+- [My Journey to MuleSoft Certified Developer — Level 1 (Mule 4)](https://medium.com/captech-corner/my-journey-to-mulesoft-4-certified-developer-level-1-ba82483c48d6)
 <!-- BLOG-POST-LIST:END -->
 
 
