@@ -14,6 +14,7 @@ const demirkol = {
   architecture: ["microservices"],
   techCommunities: {
                         MuleSoft Developer: "Cap4Lab",
+                        MuleSoft Mentor: "MuleSoft"
                         Researcher: "CoronaNet Project",
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on Dataweave"
